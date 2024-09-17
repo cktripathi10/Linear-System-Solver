@@ -3,11 +3,12 @@ In this assignment, I will implement the Gaussian elimination method, a foundati
 
 Linear algebra is fundamental to machine learning, serving as the basis for numerous algorithms. Gaussian elimination, while not the most advanced method used today, is a classical and essential technique for solving systems of linear equations. It provides valuable insights into the core principles of linear algebra and lays the groundwork for more advanced numerical methods.
 
-Why should you care?
-Foundational Skills: Strengthens understanding of key linear algebra concepts.
-Programming Practice: Enhances coding skills by implementing a classical mathematical algorithm.
-Historical Significance: Gaussian elimination, though not the most cutting-edge method today, is historically significant and provides a solid starting point for understanding the evolution of linear algebra techniques.
-Outline
+# Why should you care?
+ Foundational Skills: Strengthens understanding of key linear algebra concepts.
+ Programming Practice: Enhances coding skills by implementing a classical mathematical algorithm.
+ Historical Significance: Gaussian elimination, though not the most cutting-edge method today, is historically significant and provides a solid starting point for understanding the evolution of linear algebra techniques.
+
+# Outline
 1 - Introduction
 1.1 How to complete this assignment
 1.2 Gaussian Elimination Algorithm
